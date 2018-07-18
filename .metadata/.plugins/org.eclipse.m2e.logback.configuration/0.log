@@ -1,0 +1,12 @@
+2018-07-18 09:35:36,282 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.gdist:GDist:0.0.1-SNAPSHOT @ /home/michell/Documentos/Softwares/GDist/GDist/GDist/pom.xml.
+2018-07-18 09:35:39,743 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-07-18 09:36:28,960 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-07-18 09:37:34,630 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for postgresql:postgresql:jar:9.4.1208-jdbc42-atlassian-hosted is missing, no dependency information available
+2018-07-18 09:37:42,130 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-18 09:37:42,196 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/GDist/GDist/GDist/src/main/resources
+2018-07-18 09:37:42,314 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-18 09:37:42,340 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/GDist/GDist/GDist/src/test/resources
+2018-07-18 10:40:48,337 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-18 10:40:48,380 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/GDist/GDist/GDist/src/main/resources
+2018-07-18 10:40:48,458 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-18 10:40:48,472 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/michell/Documentos/Softwares/GDist/GDist/GDist/src/test/resources

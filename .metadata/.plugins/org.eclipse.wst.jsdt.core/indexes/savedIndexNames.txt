@@ -1,0 +1,5 @@
+INDEX VERSION 1.3+/home/michell/Documentos/Softwares/GDist/GDist/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3874172125.index
+4214420807.index
+2393755487.index
+839508385.index
