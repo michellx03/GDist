@@ -1,0 +1,55 @@
+
+ago 01, 2018 10:55:16.64 NEW SESSION
+ago 01, 2018 10:55:16.65 [2248:6660:0801/105516.647:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.65 [2248:6660:0801/105516.647:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.65 [2248:6660:0801/105516.647:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.65 [2248:6660:0801/105516.647:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.65 [2248:6660:0801/105516.647:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.73 [2248:6660:0801/105516.647:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.73 [2248:6660:0801/105516.647:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.73 [2248:6660:0801/105516.647:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.73 [2248:6660:0801/105516.647:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.73 [2248:6660:0801/105516.648:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.73 [2248:6660:0801/105516.648:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.74 [2248:6660:0801/105516.648:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.74 [2248:6660:0801/105516.648:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.74 [2248:6660:0801/105516.648:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.74 [2248:6660:0801/105516.648:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.74 [2248:6660:0801/105516.648:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.74 [2248:6660:0801/105516.648:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.74 [2248:6660:0801/105516.648:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.74 [2248:6660:0801/105516.648:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.74 [2248:6660:0801/105516.648:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.74 [2248:6660:0801/105516.648:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.74 [2248:6660:0801/105516.648:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.74 [2248:6660:0801/105516.648:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:16.74 [2248:6660:0801/105516.648:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+ago 01, 2018 10:55:27.06 [2248:5168:0801/105527.063:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.06 [2248:5168:0801/105527.063:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.06 [2248:5168:0801/105527.063:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.06 [2248:5168:0801/105527.064:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.06 [2248:5168:0801/105527.064:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.06 [2248:5168:0801/105527.064:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.06 [2248:5168:0801/105527.064:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.06 [2248:5168:0801/105527.064:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.06 [2248:5168:0801/105527.064:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.06 [2248:5168:0801/105527.064:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.06 [2248:5168:0801/105527.064:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.06 [2248:5168:0801/105527.065:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.06 [2248:5168:0801/105527.065:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.06 [2248:5168:0801/105527.065:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.12 [2248:5168:0801/105527.120:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.12 [2248:5168:0801/105527.121:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.12 [2248:5168:0801/105527.121:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.12 [2248:5168:0801/105527.121:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.12 [2248:5168:0801/105527.121:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.12 [2248:5168:0801/105527.121:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.12 [2248:5168:0801/105527.121:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.12 [2248:5168:0801/105527.121:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.12 [2248:5168:0801/105527.121:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.12 [2248:5168:0801/105527.122:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.12 [2248:5168:0801/105527.122:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.12 [2248:5168:0801/105527.122:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.12 [2248:5168:0801/105527.122:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:55:27.12 [2248:5168:0801/105527.122:ERROR:service_manager_context.cc(250)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.75\chrome_renderer.service.exe
+ago 01, 2018 10:56:02.80 Unable to read VR Path Registry from C:\Users\Cliente\AppData\Local\openvr\openvrpaths.vrpath

@@ -13,7 +13,7 @@ import javax.persistence.Persistence;
 public class ConexaoEntityFactory {
 
 	// nome da unidade de persistencia definia no persistence.xml
-	private static final String UNIT_NAME = "GDistMVCPU";
+	private static final String UNIT_NAME = "GDistPU";
 
 	private EntityManagerFactory emf = null;
 

@@ -22,6 +22,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/michell/Documentos/Bibliotecas/postgresql-9.4.1208-jdbc42-atlassian-hosted.jar"/>
+	<classpathentry kind="lib" path="D:/Bibliotecas/postgresql-9.4.1208-jdbc42-atlassian-hosted.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
